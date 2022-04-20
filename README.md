@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @Apkjvru
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Instalación :
+apt update
+apt install git -y
+git clone git://github.com/htr-tech/nexphisher.git
+cd nexphisher
+> CONFIGURACIÓN:bash setup
+> CONFIGURACIÓN [TERMUX] :bash tmux_setup
+> Ejecutar:bash nexphisher
+Comando único:
+apt update ; apt install git -y ; git clone git://github.com/htr-tech/nexphisher.git ; cd nexphisher ; bash setup ; bash nexphisher
 
-<!---
-Apkjvru/Apkjvru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 
+
+<<< Si copias, entonces dame los créditos >>>
+Características :
+[+] ¡Últimas páginas de inicio de sesión!
+[+] 5 opciones de redirección de puertos !
+[+] ¡Fácil para principiantes!
+Créditos:
+> Zphisher ( https://github.com/htr-tech/zphisher )
+> La elección de Linux ( https://github.com/thelinuxchoice )
+> Desarrolladores de DarkSec ( https://github.com/DarkSecDevelopers )
+> Undeadsec ( https://github.com/Undeadsec )
+Opciones de sintonización:
+> Servidor local (127.0.0.1)
+> NGROK ( https://ngrok.com )
+> SERVEO ( https://serveo.net )
+> LOCALHOSTRUN ( https://localhost.run )
+> LOCALXPOSE ( https://localxpose.io/ )
